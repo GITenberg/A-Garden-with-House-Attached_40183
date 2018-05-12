@@ -1,0 +1,31 @@
+_repo: A-Garden-with-House-Attached_40183
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40183-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Brooks, Sarah Warner
+    birthdate: 1822
+    deathdate: 1906
+    gutenberg_agent_id: '40246'
+    url: http://www.gutenberg.org/2009/agents/40246
+description: ''
+gutenberg_issued: '2012-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gardening'
+tableOfContents: A garden with house attached -- The man with the hoe -- The "lady's"
+  conservatory -- The house garden, the selection, arrangement, and culture of house
+  plants -- At Easter-time -- Burglar-proof -- Perennials -- Hollyhocks and violets
+  -- The rose -- Border bulbs -- Annuals -- Climbers -- Gardens "in Spain" -- The
+  cerebral processes of plants -- "Auf wiedersehen".
+title: A Garden with House Attached
+url: http://www.gutenberg.org/ebooks/40183
